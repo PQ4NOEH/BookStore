@@ -1,0 +1,7 @@
+C:\proj\git\BookStore\BookStoreProject\BookStore.CustomerSupport.Domain\bin\Debug\BookStore.CustomerSupport.Domain.dll
+C:\proj\git\BookStore\BookStoreProject\BookStore.CustomerSupport.Domain\bin\Debug\BookStore.CustomerSupport.Domain.pdb
+C:\proj\git\BookStore\BookStoreProject\BookStore.CustomerSupport.Domain\bin\Debug\BookStore.Core.dll
+C:\proj\git\BookStore\BookStoreProject\BookStore.CustomerSupport.Domain\bin\Debug\BookStore.Core.pdb
+C:\proj\git\BookStore\BookStoreProject\BookStore.CustomerSupport.Domain\obj\Debug\BookStore.CustomerSupport.Domain.csprojResolveAssemblyReference.cache
+C:\proj\git\BookStore\BookStoreProject\BookStore.CustomerSupport.Domain\obj\Debug\BookStore.CustomerSupport.Domain.dll
+C:\proj\git\BookStore\BookStoreProject\BookStore.CustomerSupport.Domain\obj\Debug\BookStore.CustomerSupport.Domain.pdb
